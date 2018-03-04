@@ -1,0 +1,12 @@
+C:\Users\Andrew\AppData\Local\Temporary Projects\Garneau-18-Slots\bin\Debug\Garneau-18-Slots.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Garneau-18-Slots\Garneau-18-Slots\bin\Debug\Garneau-18-Slots.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Garneau-18-Slots\Garneau-18-Slots\bin\Debug\Garneau-18-Slots.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Garneau-18-Slots\Garneau-18-Slots\bin\Debug\Garneau-18-Slots.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Garneau-18-Slots\Garneau-18-Slots\bin\Debug\Garneau-18-Slots.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Garneau-18-Slots\Garneau-18-Slots\obj\Debug\Garneau-18-Slots.vbprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Garneau-18-Slots\Garneau-18-Slots\obj\Debug\Garneau_18_Slots.Resources.resources
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Garneau-18-Slots\Garneau-18-Slots\obj\Debug\Garneau-18-Slots.vbproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Garneau-18-Slots\Garneau-18-Slots\obj\Debug\Garneau-18-Slots.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Garneau-18-Slots\Garneau-18-Slots\obj\Debug\Garneau-18-Slots.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Garneau-18-Slots\Garneau-18-Slots\obj\Debug\Garneau-18-Slots.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Garneau-18-Slots\Garneau-18-Slots\obj\Debug\Garneau_18_Slots.frmPokeslots.resources

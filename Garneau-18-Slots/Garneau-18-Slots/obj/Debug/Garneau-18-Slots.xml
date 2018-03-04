@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Garneau-18-Slots
+</name>
+</assembly>
+<members>
+<member name="T:Garneau_18_Slots.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Garneau_18_Slots.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Garneau_18_Slots.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Garneau_18_Slots.My.Resources.Resources.eevee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Garneau_18_Slots.My.Resources.Resources.espeon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Garneau_18_Slots.My.Resources.Resources.flareon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Garneau_18_Slots.My.Resources.Resources.glaceon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Garneau_18_Slots.My.Resources.Resources.jolteon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Garneau_18_Slots.My.Resources.Resources.leafeon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Garneau_18_Slots.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Garneau_18_Slots.My.Resources.Resources.umbreon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Garneau_18_Slots.My.Resources.Resources.vaporeon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
